@@ -1,4 +1,4 @@
-import *as careerService from "../service/careerService"
+import *as careerService from "../service/careerService.js"
 
 export const createCareer = async(req,res)=>{
     try{
