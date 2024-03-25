@@ -1,4 +1,4 @@
-import * as careerController from "../controllers/careerController.js";
+import * as careerController from "../controllers/careerController";
 import express from "express";
 
 const router = express.Router();
